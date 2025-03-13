@@ -1,4 +1,4 @@
-# personalizedCTSynthesis repository for longitudinal ct image synthesis
+# Repository for longitudinal ct image synthesis
 This is the repository for the: Population-Driven Synthesis of Personalized Cranial Development from Cross-Sectional Pediatric CT Images.
 
 This repository contains the scripts to make random synthesis across time span and to make longitudinal predictions. 
